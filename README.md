@@ -3,7 +3,7 @@
 - **Email:** adimemes06@gmail.com
 - **ID Dicoding:** adimemes
 
-Pada Project kali ini adalah membuat sebuah model klasifikasi gambar menggunakan CNN dan transfer learning yaitu dengan model MobileNetV2, dataset yang digunakan berasal dari kaggel yaitu dataset Multi-Class Nut Varieties yang bisa di lihat pada halaman <a href = "https:https://universe.roboflow.com/taj/weather-classification-kkfgt">ini</a><br>
+Pada Project kali ini adalah membuat sebuah model klasifikasi gambar menggunakan CNN dan transfer learning yaitu dengan model MobileNetV2, dataset yang digunakan berasal dari kaggel yaitu dataset Multi-Class Nut Varieties yang bisa di lihat pada halaman <a href = "https://universe.roboflow.com/taj/weather-classification-kkfgt">ini</a><br>
 Tahapan ini dilakukan pada file I Kadek Adi Memes Subagia_Submission_Akhir.ipynb dengan beberapa tahapan yaitu
 
 1. Import Libary dan packages yang dibutuhkan dalam project
